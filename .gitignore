@@ -1,0 +1,12 @@
+# Ignore all files matching ta1-theia-e3-official-* patterns
+ta1-theia-e3-official-*.json
+ta1-theia-e3-official-*.json.*
+ta1-theia-e3-official-*.json.*.txt
+ta1-theia-e3-official-*.json.tar.gz
+ta1-theia-e3-official-*.json.txt
+
+# Ignore theia test and train files
+theia_test.txt
+theia_train.txt
+
+.ipynb_checkpoints/
