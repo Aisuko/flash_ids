@@ -170,6 +170,7 @@ dependencies:
       - fonttools==4.55.0
       - fqdn==1.5.1
       - fsspec==2024.10.0
+      - gdown
       - gensim==4.3.3
       - h11==0.14.0
       - httpcore==1.0.7
