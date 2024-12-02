@@ -5,8 +5,18 @@ ta1-theia-e3-official-*.json.*.txt
 ta1-theia-e3-official-*.json.tar.gz
 ta1-theia-e3-official-*.json.txt
 
+# Ignore all files matching with ta1-cadets-e3-official* patterns
+ta1-cadets-e3-official*.json
+ta1-cadets-e3-official*.json.*
+ta1-cadets-e3-official*.json.*.txt
+ta1-cadets-e3-official*.json.tar.gz
+ta1-cadets-e3-official*.json.txt
+
 # Ignore theia test and train files
 theia_test.txt
 theia_train.txt
+cadets_test.txt
+cadets_train.txt
+
 
 .ipynb_checkpoints/
