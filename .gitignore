@@ -19,14 +19,22 @@ ta1-trace-e3-official*.json.*.txt
 ta1-trace-e3-official*.json.tar.gz*
 ta1-trace-e3-official*.json.txt
 
+# Ignore all files matching ta1-fivedirections-e3-official-* patterns
+ta1-fivedirections-e3-official-*.json
+ta1-fivedirections-e3-official-*.json.*
+ta1-fivedirections-e3-official-*.json.*.txt
+ta1-fivedirections-e3-official-*.json.tar.gz
+ta1-fivedirections-e3-official-*.json.txt
 
-# Ignore theia test and train files
+
+# Ignore test and train files
 theia_test.txt
 theia_train.txt
 cadets_test.txt
 cadets_train.txt
 trace_test.txt
 trace_train.txt
-
+fivedirections_test.txt
+fivedirections_train.txt
 
 .ipynb_checkpoints/
